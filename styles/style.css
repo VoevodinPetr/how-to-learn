@@ -296,7 +296,7 @@ margin-bottom: 90px;
   display: flex;
   text-decoration: none;
   color: white;
-  align-items: center
+  align-items: center;
 }
 .footer__column-links {
   line-height: 30px;
